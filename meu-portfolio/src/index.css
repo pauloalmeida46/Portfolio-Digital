@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.margin-top{
+    margin-top: 3%;
+}
+
+.margin-top-home{
+    margin-top: 5%;
+}
+
+@media (max-width: 768px){
+    .margin-top{
+        margin-top: 10%;
+    }
+
+    .margin-top-home{
+        margin-top: 10%;
+    }
+}
