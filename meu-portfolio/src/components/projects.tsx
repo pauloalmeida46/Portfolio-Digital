@@ -7,13 +7,13 @@ const projects = [
     title: 'CyberScrums',
     image: '/images/cyberscrums-logo.jpg',
     description: 'Este é um projeto acadêmico onde seu principal objetivo foi montar uma aplicação web para o monitoramento de uma estufa artificial de um grupo da faculdade, pelo qual eu fui responsável por produzir o front-end do site juntamente com os integrantes do grupo',
-    link: 'https://github.com/seu-usuario/projeto-1',
+    link: 'https://github.com/CyberScrums/Projeto-Smart-Farming',
   },
   {
     title: 'SkyFall',
     image: '/images/skyfall-logo.png',
     description: 'Este é um projeto acadêmico onde eu e minha equipe fomos encarregados de produzir uma aplicação web para a administração de estoque, onde eu fiz parte da equipe de front-end e me encarreguei de fazer o design de algumas páginas, assim como também os frameworks.',
-    link: 'https://github.com/seu-usuario/projeto-2',
+    link: 'https://github.com/EquipeSkyfall/API_2Semestre',
   },
 ];
 
