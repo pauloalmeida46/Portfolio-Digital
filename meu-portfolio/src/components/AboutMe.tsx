@@ -29,6 +29,9 @@ const AboutMe: React.FC = () => {
           <div className="flex flex-wrap">
             <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">JavaScript</span>
             <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">Python</span>
+            <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">Java</span>
+            <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">TypeScript</span>
+            <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">Spring</span>
             <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">React</span>
             <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">Node.js</span>
             <span className="bg-gray-800 text-white py-1 px-3 rounded-full text-sm mr-2 mb-2">AWS</span>
